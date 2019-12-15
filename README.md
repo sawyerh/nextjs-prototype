@@ -1,6 +1,6 @@
 # Next.js prototype
 
-[Static export demo here](https://sawyerh.github.io/nextjs-prototype/).
+[Static export demo here](https://nextjs-prototype.now.sh/).
 
 ## Scripts
 
