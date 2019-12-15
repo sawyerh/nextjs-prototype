@@ -1,6 +1,6 @@
 # Next.js prototype
 
-[Static export demo here](https://nextjs-prototype.now.sh/).
+[Static export demo here](https://nextjs-prototype.now.sh/)
 
 ## Scripts
 
