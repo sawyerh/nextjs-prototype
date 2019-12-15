@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import Head from "next/head";
+import Link from "next/link";
 import ForecastMessage from "../components/ForecastMessage";
 
 const Home = () => {
@@ -26,8 +27,10 @@ const Home = () => {
         <title>Home</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <h1>API response:</h1>
 
+      <Link href="/about">Route to the About page.</Link>
+
+      <h1>API response:</h1>
       {forecast ? <ForecastMessage forecast={forecast} /> : "Loading..."}
     </main>
   );
