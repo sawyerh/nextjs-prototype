@@ -1,4 +1,4 @@
-# Next.js prototype for Massachusetts Paid Family and Medical Leave
+# Next.js prototype
 
 ## Scripts
 
