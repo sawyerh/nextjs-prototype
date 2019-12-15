@@ -6,6 +6,8 @@
 
 `npm run build` - Builds the app for production.
 
+`npm run export` - Builds the app for production and exports a static site.
+
 `npm start` - Runs the built app in production mode.
 
 ## Learn more
