@@ -1,5 +1,7 @@
 # Next.js prototype
 
+[Static export demo here](https://sawyerh.github.io/nextjs-prototype/).
+
 ## Scripts
 
 `npm run dev` - Starts the development server.
